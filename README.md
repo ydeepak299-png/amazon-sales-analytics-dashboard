@@ -205,10 +205,6 @@ for every Product Category.
 
 ![Category Tooltip](Dashboard%20Images/Tooltips.png)
 
-## Category Tooltip
-
-![Category Tooltip](Dashboard%20Images/Tooltips.png)
-
 ---
 
 # 🌐 Live Dashboard
