@@ -205,6 +205,18 @@ for every Product Category.
 
 ![Category Tooltip](Dashboard%20Images/Tooltips.png)
 
+## Category Tooltip
+
+![Category Tooltip](Dashboard%20Images/Tooltips.png)
+
+---
+
+# 🌐 Live Dashboard
+
+Power BI dashboards cannot be viewed directly on GitHub.
+
+Please download the `.pbix` file from this repository and open it using **Microsoft Power BI Desktop**.
+
 ---
 
 # 📁 Repository Structure
@@ -240,6 +252,23 @@ amazon-sales-analytics-dashboard
 - Professional Dashboard Design
 
 ---
+# 🔄 Project Workflow
+
+Raw Dataset
+      ↓
+Excel Cleaning
+      ↓
+Power Query
+      ↓
+SQL Analysis
+      ↓
+Power BI Data Model
+      ↓
+DAX Measures
+      ↓
+Interactive Dashboard
+      ↓
+Business Insights
 
 # 📚 Skills Demonstrated
 
@@ -305,6 +334,27 @@ Future enhancements could include:
 - Advanced DAX Measures
 
 ---
+# 🌟 Portfolio Highlights
+
+✔ End-to-End Data Analytics Project
+
+✔ Excel Data Cleaning
+
+✔ SQL Business Analysis
+
+✔ Power Query Transformations
+
+✔ DAX Calculations
+
+✔ Interactive Power BI Dashboard
+
+✔ Drill-through Pages
+
+✔ Dynamic Tooltips
+
+✔ Executive Reporting
+
+✔ Business Storytelling
 
 # 👨‍💻 Author
 
